@@ -86,6 +86,7 @@ aside {
     background-color: #2589bd;
 }
 
+/*Changed benefit lead,cost, brand and img from class to id*/
 #benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
