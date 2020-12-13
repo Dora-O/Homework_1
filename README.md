@@ -4,7 +4,7 @@ The Horiseon company requested that there codebase follow accessibility standard
 
 Current codebase has generic container < div > .
 
-Will remove <div> element and replace it with different containers that will help website be up to accessability standards.
+Will remove < div > element and replace it with different containers that will help website be up to accessability standards.
 Comments in codebase will show what changes were made.
 Using HTML for this request.
 
