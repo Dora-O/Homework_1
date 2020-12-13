@@ -2,7 +2,8 @@
 
 The Horiseon company requested that there codebase follow accessibility standards and use semantic HTML elements so that their website could be optimized for search engines.
 
-Current codebase has generic container <div>.
+Current codebase has generic container < div > .
+
 Will remove <div> element and replace it with different containers that will help website be up to accessability standards.
 Comments in codebase will show what changes were made.
 Using HTML for this request.
