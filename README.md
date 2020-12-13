@@ -9,4 +9,4 @@ Using HTML for this request.
 
 Application will be deployed at the following link: https://dora-o.github.io/Horiseon/
 
-Screenshot of deployed site : (https://user-images.githubusercontent.com/70343136/102025094-48585980-3d5b-11eb-9cc8-ccf816e0ed45.png)
+Screenshot of deployed site : https://user-images.githubusercontent.com/70343136/102025094-48585980-3d5b-11eb-9cc8-ccf816e0ed45.png
