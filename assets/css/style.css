@@ -4,6 +4,12 @@
     margin: 0;
 }
 
+.clearfix::after{
+    content: " ";
+    display: block;
+    clear: both;
+}
+
 body {
     background-color: #d9dcd6;
 }
@@ -201,4 +207,10 @@ footer {
 
 #footer h2 {
     font-size: 20px;
+}
+
+@media screen and (max-width:1015px){
+    nav a {
+        font-size: 15px;
+    }
 }
